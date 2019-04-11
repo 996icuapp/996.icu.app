@@ -12,11 +12,19 @@
 
 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
 
+## 下载
+
+[996icu-1.0.apk](https://github.com/996icuapp/996.icu.app/releases/download/1.0/app-release.apk)
+
+![qr_code](images/qr_code.png)
+
 ## Screenshots
+
 - 996、955榜单
+- 讨论区
 - 加班工资计算器
-![](images/Screenshot_1554971672.png)
-![](images/Screenshot_1554971675.png)
+
+![](images/combine.png)
 
 
 License
@@ -25,4 +33,3 @@ License
 [反 996 许可证](LICENSE)
 
  - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
- - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
