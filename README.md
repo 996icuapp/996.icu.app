@@ -6,7 +6,7 @@
 
 ![Logo](images/ic_launcher_round.png)
 
-**996 ICU APP 声援抵制 996 工作制， 与 [996.ICU](https://github.com/996icu/996.ICU) 的所有者无关联**
+**996 ICU APP 声援抵制 996 工作制， 非 [996.ICU](https://github.com/996icu/996.ICU) 作者，非官方APP，love, peace and respect。**
 
 996.ICU app 提供最新的996黑名单和955白名单、匿名讨论区、加班工资计算器
 
