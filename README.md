@@ -21,10 +21,16 @@
 
 <img src="images/qr_code.png" width="256">
 
-- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.0/app-release.apk)
+- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.1/app-release.apk)
 
 
-
+## 更新日志
+#### V 1.1
+1. 优化计算器UI
+2. 增加`关于`界面
+3. 增加点击帖子后帖子置灰，且有新评论时提醒功能
+4. 增加发布帖子后返回讨论区功能
+5. 帖子详情界面增加`楼主`标签
 
 ## Screenshots
 
