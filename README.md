@@ -6,6 +6,8 @@
 
 ![Logo](images/ic_launcher_round.png)
 
+**996 ICU APP 声援抵制 996 工作制， 与 [996.ICU](https://github.com/996icu/996.ICU) 的所有者无关联**
+
 996.ICU app 提供最新的996黑名单和955白名单、匿名讨论区、加班工资计算器
 
 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
@@ -13,10 +15,16 @@
 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
 
 ## 下载
+下载地址：
 
-[996icu-1.0.apk](https://github.com/996icuapp/996.icu.app/releases/download/1.0/app-release.apk)
+- 地址1：[酷安商店](https://www.coolapk.com/apk/com.youngpower.a996icu)
 
-![qr_code](images/qr_code.png)
+<img src="images/qr_code.png" width="256">
+
+- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.0/app-release.apk)
+
+
+
 
 ## Screenshots
 
