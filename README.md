@@ -21,10 +21,16 @@
 
 <img src="images/qr_code.png" width="256">
 
-- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.2/app-release.apk)
+- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.3/app-release.apk)
 
 
 ## 更新日志
+#### V 1.3
+1. 榜单增加投票功能，投票越多的公司会排在前面
+2. 加班工资计算器调整
+3. 讨论区大厅增加置顶topic
+4. 稳定性提升和bug修复
+
 #### V 1.2
 1. 加班工资计算器增加分享功能
 2. 讨论区增加我评论和我发布的分区，之前关注的主题更好找了
