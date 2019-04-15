@@ -17,14 +17,20 @@
 ## 下载
 下载地址：
 
-- 地址1：[酷安商店](https://www.coolapk.com/apk/com.youngpower.a996icu)
-
+- 地址1：[微信扫描二维码](http://lumiaxu.com/static/yp/996.html)
 <img src="images/qr_code.png" width="256">
 
-- 地址2：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/download/1.3/app-release.apk)
+- 地址2：[酷安商店](https://www.coolapk.com/apk/com.youngpower.a996icu)
+
+- 地址3：[GitHub Release](https://github.com/996icuapp/996.icu.app/releases/)
 
 
 ## 更新日志
+#### V 1.4
+1. 调整 "我的" 界面的UI
+2. 增加请求异常时的提示
+3. 限制帖子长度，修改发布界面文案
+
 #### V 1.3
 1. 榜单增加投票功能，投票越多的公司会排在前面
 2. 加班工资计算器调整
