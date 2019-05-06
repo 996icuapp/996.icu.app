@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_list"
+        android:icon="@drawable/ic_format_list_numbered_green_500_24dp"
+        android:title="榜单" />
+    <item
+        android:id="@+id/item_discuss"
+        android:icon="@drawable/ic_forum_green_500_24dp"
+        android:title="讨论区"
+        />
+    <item
+        android:id="@+id/item_calc"
+        android:icon="@drawable/ic_attach_money_green_500_24dp"
+        android:title="计算器"
+        />
+
+    <item
+        android:id="@+id/item_github_web"
+        android:icon="@drawable/ic_account_balance_green_500_24dp"
+        android:title="主站"
+        />
+
+</menu>

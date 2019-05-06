@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_marginTop="16dp"
+              android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="#1"
+        android:layout_marginLeft="16dp"
+        android:id="@+id/tv_floor"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="楼主"
+        android:layout_marginLeft="8dp"
+        android:id="@+id/tv_up_owner"
+        android:textColor="@color/colorAccent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:id="@+id/tv_comment_content"
+        android:text="啊啊啊啊啊啊啊啊啊啊啊啊"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

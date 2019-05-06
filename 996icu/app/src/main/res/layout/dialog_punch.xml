@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="下班打卡"
+        android:textColor="@color/colorPrimary"
+        android:textSize="22sp"
+        android:padding="8dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:id="@+id/tv_prompt"
+        android:text="现在是北京时间 s% ，祝你下班愉快！希望你明天下班能早一点！"
+        android:textColor="@color/colorTextTitle"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="公司："/>
+
+        <android.support.v7.widget.AppCompatSpinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_company"
+            android:prompt="@string/punch_prompt"
+            android:gravity="end">
+        </android.support.v7.widget.AppCompatSpinner>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="12sp"
+        android:textColor="@color/colorTextSubTitle"
+        android:text="PS：当前只能选择在996榜单里面的公司，如果你的公司不在榜单里面，可以点击爆料按钮向我们爆料，我们会更新榜单"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

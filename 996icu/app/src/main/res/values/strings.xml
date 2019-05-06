@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">996ICU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prompt_calc">在滚轮中选择工作时长和工资\n即可算出应得加班工资</string>
+    <string name="share_prompt">\@996ICU App 加班薪资计算器</string>
+    <string name="load_fail">网络请求失败，大概率是因为后台波动，遇到这种情况，需要稍等一下再重新操作</string>
+    <string name="punch_prompt">点击选择公司</string>
+    <string name="share_prompt_overtime">公司加班排行榜\n04月16日</string>
+    <string name="share_prompt_bottom_app">\@996ICU App 加班公司排行榜</string>
+</resources>

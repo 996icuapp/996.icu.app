@@ -1,0 +1,10 @@
+<font color='#242424'><strong><big>工资</big></strong></font>
+<br>
+你当前的每月工资是 %.2fK，但由于你的加班，你每个月应得到额外的加班工资<font color='red'><strong><big> %.2fK </big></strong></font>，所以你每个月实际上应该得到的薪资是<font color='red'><strong><big> %.2fK </big></strong></font>。
+<br>
+<br>
+<font color='#242424'><strong><big>工作时长</big></strong></font>
+<br>
+国家法定每天工作时长为8小时，每周工作5天。但是你每天实际工作了<font color='red'><strong><big> %5d小时 </big></strong></font>，这意味着你每天都需要加班<font color='red'><strong><big> %5d小时 </big></strong></font>。
+<br>
+这样的话，一周下来，你累计加班了<font color='red'><strong><big> %5d小时 </big></strong></font>，每个月会加班<font color='red'><strong><big> %5d小时 </big></strong></font>。
