@@ -14,6 +14,8 @@
 
 955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
 
+**Code now available.**
+
 ## Screenshots
 
 ![](images/combine.png)
@@ -21,7 +23,7 @@
 ## 下载
 下载地址：
 
-- 地址1：[微信扫描二维码](http://lumiaxu.com/static/yp/996.html)
+- 地址1：[微信扫描二维码](http://icu.gettin.cn/)
 <img src="images/qr_code.png" width="256">
 
 - 地址2：[酷安商店](https://www.coolapk.com/apk/com.youngpower.a996icu)
